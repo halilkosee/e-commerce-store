@@ -1,15 +1,13 @@
 
-using API.Entities;
-using API.Data;
+using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-
-
-
+using Microsoft.EntityFrameworkCore;
+using Infrastructure.Data;
 
 namespace API.Controllers
 {
@@ -33,9 +31,10 @@ namespace API.Controllers
         }
 
         [HttpGet("{id}")]
-        public string GetProduct(int id)
+        public  async Task<ActionResult<Product>> GetPoduct(int id)
         {
-            return "single product";
+            var products = await  _context.Products.ToListAsync();
+            return  await _context.Products.FindAsync(id);
         }
     }
 }
