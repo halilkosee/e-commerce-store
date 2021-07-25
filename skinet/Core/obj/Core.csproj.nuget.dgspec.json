@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {}
+    "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config"

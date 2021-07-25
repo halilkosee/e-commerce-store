@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Core\\Core.csproj"
               }
             }
           }

@@ -1414,11 +1414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1433,8 +1433,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\halil\\Desktop\\e-commerce\\skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

@@ -59,3 +59,5 @@ C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Core.dll
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Core.pdb
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
