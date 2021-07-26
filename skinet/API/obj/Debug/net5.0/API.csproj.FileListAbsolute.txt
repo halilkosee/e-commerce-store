@@ -61,3 +61,11 @@ C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Core.pdb
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\halil\Desktop\e-commerce\skinet\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
